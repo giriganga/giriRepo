@@ -3,6 +3,7 @@ http://www.webstandards.org/learn/articles/askw3c/dec2002/
 ``SGML is an international standard for the definition of device-independent, system-independent methods of representing texts in electronic form''
 ``SGML is a metalanguage, that is, a means of formally describing a language, in this case, a markup language''
 
+Edited by Giri
 
 Where is SGML used?
 
